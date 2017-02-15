@@ -1,11 +1,3 @@
-Title: Creating Sub MenuItems for FAB (Floating Action Button)
-Date: 2017-2-15 11:24AM
-Authors: ptyagi
-Category: Development
-Tags: ANDROID, FAB, DEV, UI
-Summary: This post shows how to integrate sub menu items for FAB (Floating Action Button) in an existing Android app.
-
-
 ### Final Outcome ###
 Our target to integrate FAB into an existing Android App and creating submenus. Settings icon is used as FAB. Clicking on it will open its submenus: Save, Edit and Photo. Clicking on X will close submenus and Settings icon will re-appear.
 
@@ -211,3 +203,5 @@ public class MainActivity extends AppCompatActivity {
 
 ### Congratulations! ###
 Yay ! You got FAB integrated along with sub menu in less than 5 minutes. Its time to celebrate :)
+
+Source code is available at <a href="https://github.com/ptyagicodecamp/fab-submenu">Github </a>
